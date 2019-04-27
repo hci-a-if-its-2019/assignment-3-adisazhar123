@@ -41,6 +41,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
 
+1. Register an account.
+2. Find a housing ad, its description, the location of the house, and the phone number of the ad lister.
+3. Use the search feature to find the cheapest Samsung mobile phone.
+
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
 > If at some points you have to help the participants, because they cannot figure out what to do,
@@ -52,9 +56,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 #### a. Transcript with Participant 1
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+ 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
