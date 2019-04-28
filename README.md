@@ -27,10 +27,11 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+I chose this participant because he comes from a non-tech social background, and I would like his perspective about the redefined Craiglist UI in his own terms. Tech updated people tend to know basic conventions of operations, while non-tech don't. So I think it would be interesting to do so. 
+ - Social science student
+ - Male, 21 years of age
+ - Never heard of Craiglist
+ - Light internet usage for daily work  
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
