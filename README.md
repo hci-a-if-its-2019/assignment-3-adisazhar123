@@ -56,10 +56,28 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **You**: Terima kasih sudah menyediakan waktu untuk berpartisipasi dalam uji coba prototype saya.
+ 2. **You**: Yang ada didepan kita sekarang adalah bentuk prototype website Craiglist. Craiglist adalah website yang menyediakan barang bekas untuk dibeli dan dijual, serta forum untuk berdiskusi. Anda pernah mendengar Craiglist sebelumnya?
+ 3. **Participant**: Belum pernah.
+ 4. **You**: Ok, saya akan memberikan laptop saya agar anda bisa mengoperasikannya. Apa yang anda lihat sekarang?
+ 5. **Participant**: Hmm.. Dari hasil tampilan, saya rasa ini halaman landing page ya? Ada tombol Login dan Register diatas, ada navigasi atas, ada search, ada bagian Automotives, Community, Housing, Service, ada bentuk kotak-kotak yang berisi gambar mobil. Itu iklannya kah?
+ 6. **You**: Iya sip. Ok, pertama saya akan menyuruh anda untuk registrasi akun. Kalau bisa setiap step di-verbal kan ya.
+ 7. **Participant**: Ok, saya pertama klik Register account yang diatas. Ini halamannya beralih. Disini saya disuru mengisi email dan password. Lalu klik submit. Ada 2 tulisan yang muncul, di kotak Email Address ada tulisan "You can use this email address" dengan centang hijau, sedangkan di "Password", ada tulisan "Password needs to have capital letter" dengan warna merah. Berarti Email saya sudah benar, sedangkan Password harus diperbaiki. Nah hmm.. Saya klik Submit lagi. Oh ini ada halaman yang berisi "Congratulation (*email saya*) you have successfully registered."
+ 8. **You:** Ok, apakah anda menemukan kesulitan untuk mendaftar akun?
+ 9. **Participant:** Menurut saya tampilan sudah cukup bagus, dan mudah untuk mendaftarkan akun.
+ 10. **You:** Tadi kan sempat muncul tulisan untuk membantu email dan password. Itu dibutuhkan ndak kira-kira?
+ 11. **Participant:** Menurut saya tulisannya cukup jelas karena saya tahu apa yang harus diperbaiki di password, dengan warna merah... berarti salah. Jadi saya ganti password dengan huruf kapital.
+ 12. **You:** Sekarang tolong untuk mencari advertisement rumah di halaman utama.
+ 13. **Participant:** Ini sudah saya klik...
+ 14. **You:** Terdiri dari apa saja?
+ 15. **Participant:** Disini ada gambar rumahnya, info penjualan.
+ 16. **You:** Coba untuk mendapatkan info lebih lanjut untuk rumah tersebut.
+ 17. **Participant:** Sudah.. Ini ada gambar rumahnya, harga, info, sama kotak penawaran di sebelah kanan.
+ 18. **You:** Coba anda cari contact person rumah tersebut.
+ 19. **Participant:** Oh jadi ini, kalau saya klik tombol "I'm interested" ehhh saya tahu profil dari orang penjual rumah ini, ada nama, no telp dan alamat, beserta map lokasi penjual tersebut.
+ 20. **You:** Ok, apakah anda mengalami kesulitan ketika mencari rumah beserta info penjual?
+ 21. **Participant:** Kalau saya tidak terlalu sulit untuk mencari, karena langkahnya sudah jelas dan simple. Bisa ditebak.
+ 22. 
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
