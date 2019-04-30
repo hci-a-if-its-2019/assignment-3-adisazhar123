@@ -81,79 +81,94 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 #### b. Transcript with Participant 2
  1. **You:** Uji coba pertama aku akan menyuru kamu untuk registrasi akun. Setiap step yang kamu lakukan tolong untuk di-verbal kan.
- 2. **Particiapant:** Ok aku klik register di nav bar. Aku dibawa ke halaman baru. Sekarang aku mengisi email dan password aku. Lalu aku klik submit. Disini aku harus mengubah password... 
+ 2. **Particiapant:** Ok aku klik register di nav bar. Aku dibawa ke halaman baru. Oh mudah ini, sekarang aku mengisi email dan password aku. Lalu aku klik submit. Tapi disini aku harus mengubah password... 
  3. **You:** Yang muncul apa?
  4. **Participant:** Ada tulisan "password needs to have capital letter".. Ada warna merah di box password, untuk email bisa digunakan, ada tulisan dan warna hijau. Sekarang aku submit lagi.
  5. **You:** Sekarang udah sampai mana?
- 6. **Participant:** Tampilan yang ada didepan aku menunjukkan bahwa aku sudah bisa menggunakan Craiglist dengan akun baru.
- 7. **You:** Ok. Tadi kan sempat muncul pesan ya. Menurut kamu apa tadi membantu anda untuk melakukan registrasi.
- 8. **Participant:** Iya membantu. Membantu meningat aku untuk ganti password dengan ada huruf besar, tidak kecil semua.
+ 6. **Participant:** Tampilan yang ada didepan aku menunjukkan bahwa aku sudah bisa menggunakan Craiglist dengan akun baru. Mantapp mas.
+ 7. **You:** Ok, tampilannya bisa dipahami? Terus tadi kan sempat muncul pesan ya. Menurut kamu apa tadi membantu anda untuk melakukan registrasi.
+ 8. **Participant:** Udah cukup kok untuk memberitahu registrasi sudah selesai... Hmm iya membantu. Membantu meningat aku untuk ganti password dengan ada huruf besar, tidak kecil semua.
  9. **You:** Terus tadi kan ada warnanya, hijau dan merah. Apakah itu mengikat perhatian?
  10. **Participant:** Ketika aku melihat warna merah, aku langsung tahu ada yang salah.
  11. **You:** Ok. Sekarang coba ke halaman utama. Apa yang bisa kamu lihat?
- 12. **Participant:** Ini ada iklan-iklan mobil.
- 13. **You:** Step selanjutnya coba kamu cari iklan rumah.
- 14. **Participant:** Ok aku klik tombol rumah. Ada 4 tipe rumah yang ada.
- 15. **You:** Sekarang cari informasi untuk salah satu rumah yang kamu tertarik.
- 16. **Participant:** Sudah.
- 17. **You:** Sekarang kamu di halaman apa?
- 18. **Participant:** Di halaman penjualan.
- 19. **You:** Ada apa saja?
- 20. **Participant:** Ini ada gambar rumah, nama iklan, harganya sama informasi tambahan. Terus di sebelah kanan ada persegi yang berisi profil penjual, dan nomer HP tapi ndak lengkap.
- 21. **You:** Harga rumahnya berapa?
- 22. **Participant:** 600 dollar.
- 23. **You:** Kamu sekarang cari nomer contact person berserta lokasi orang nya.
- 24. **Participant:** Ndak bisa ini... 
- 25. **You:** Coba dicari lagi.
- 26. **Participant:** *2 menit kemudian*... Oh ini muncul. Ada gambar maps sama nomer HP.
- 27. **You:** Ok. Ada masalah ndak untuk sampai step itu?
- 28. **Participant:** Ndak sulit sih, tapi sempat bingung karena baru tahu kalau "I am interested" itu tombol yang bisa dipencet.
- 29. **You:** Ok sip. Sekarang coba balik ke halaman utama, terus cari "search bar".
- 30. **Participant:** Iya udah ketemu.
- 31. **You:** Coba cari HP Samsung.
- 32. **Participant:** Ok aku ngetik HP Samsung yaa. Ndak muncul apa-apa mas.
- 33. **You:** Ohh, coba lagi dengan cara yang berbeda. Kalau sudah ketemu, tolong ceritain ada apa aja.
- 34. **Participant:** Ini baru muncul kalau diketik "Samsung" ndak pakai "HP". Ada gambar iklan, nama, lokasi, sama harga.
- 35. **You:** Ok, sekarang pakai fitur filter, untuk cari "Samsung" yang termurah.
- 36. **Participant:** Hmmmmm.... Oh ini.
- 37. **You:** Yaap, apa ada kesulitan untuk mencari Samsung termurah?
- 38. **Participant:** Tadi sempat bingung ngetik keyword HP Samsung ndak muncul apa-apa. Mungkin bisa dikasi tulisan atau label nunjukin jumlah yang ketemu. Terus untuk tempat filternya diberi panah biar tahu itu bisa ada pilihan.
- 39. **You:** Untuk tampilan iklan apa sudah tertata bagus?
- 40. **Participant:** Hmm menurutku udah cukup, aku sebagai pembeli bisa tahu gambar produk seperti apa, urutan harga, sama lokasi penjual. Jadi bisa untuk mempertimbangkan ketika milih produk lain.
+ 12. **Participant:** Ini ada iklan-iklan mobil. Kotaknya besar-besar, gampang dibaca. Banyak pilihannya juga, bisa milih kategori beda.
+ 13. **You:** Ok, ada yang kurang ndak menurutmu?
+ 14. **Participant:** Ini ukuran kepanjangan deskripsi iklan ada yang beda-beda, jadi ada yang ndak sejajar.
+ 15. **You:** Okee. Step selanjutnya coba kamu cari iklan rumah.
+ 16. **Participant:** Ok aku klik tombol rumah. Ada 4 tipe rumah yang ada.
+ 17. **You:** Sekarang cari informasi untuk salah satu rumah yang kamu tertarik.
+ 18. **Participant:** Sudah.
+ 19. **You:** Sekarang kamu di halaman apa?
+ 20. **Participant:** Di halaman penjualan.
+ 21. **You:** Ada apa saja?
+ 22. **Participant:** Ini ada gambar rumah, nama iklan, harganya sama informasi tambahan. Terus di sebelah kanan ada persegi yang berisi profil penjual, dan nomer HP tapi ndak lengkap.
+ 23. **You:** Harga rumahnya berapa?
+ 24. **Participant:** 600 dollar.
+ 25. **You:** Kamu sekarang cari nomer contact person berserta lokasi orang nya.
+ 26. **Participant:** Ndak bisa ini... 
+ 27. **You:** Coba dicari lagi.
+ 28. **Participant:** *2 menit kemudian*... Oh ini muncul. Ada gambar maps sama nomer HP.
+ 29. **You:** Ok. Ada masalah ndak untuk sampai step itu?
+ 30. **Participant:** Ndak sulit sih, tapi sempat bingung karena baru tahu kalau "I am interested" itu tombol yang bisa dipencet.
+ 31. **You:** Ok sip. Sekarang coba balik ke halaman utama, terus cari "search bar".
+ 32. **Participant:** Iya udah ketemu.
+ 33. **You:** Coba cari HP Samsung.
+ 34. **Participant:** Ok aku ngetik HP Samsung yaa. Ndak muncul apa-apa mas.
+ 35. **You:** Ohh, coba lagi dengan cara yang berbeda. Kalau sudah ketemu, tolong ceritain ada apa aja.
+ 36. **Participant:** Ini baru muncul kalau diketik "Samsung" ndak pakai "HP". Ada gambar iklan, nama, lokasi, sama harga.
+ 37. **You:** Ok, sekarang pakai fitur filter, untuk cari "Samsung" yang termurah.
+ 38. **Participant:** Hmmmmm.... Oh ini.
+ 39. **You:** Yaap, apa ada kesulitan untuk mencari Samsung termurah?
+ 40. **Participant:** Tadi sempat bingung ngetik keyword HP Samsung ndak muncul apa-apa. Mungkin bisa dikasi tulisan atau label nunjukin jumlah yang ketemu. Terus untuk tempat filternya diberi panah biar tahu itu bisa ada pilihan.
+ 41. **You:** Untuk tampilan iklan apa sudah tertata bagus?
+ 42. **Participant:** Hmm menurutku udah cukup, aku sebagai pembeli bisa tahu gambar produk seperti apa, urutan harga, sama lokasi penjual. Jadi bisa untuk mempertimbangkan ketika milih produk lain.
 
 
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
+> P1 is participant 1
+> P2 is participant 2
 
-#### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+#### OBSERVATION 1 (Registration)
+![Prototype Screen 1](public/register1.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: [P2#2]: ...Oh mudah ini, Sekarang aku mengisi email dan password aku. Lalu aku klik submit...
+ - **Feedback**: [P2]: Register page is simple (good thing).
+ - **Incidence**: 
+ - **Reason**: 
+ - **Resolution**: 
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](public/register2.png)
 
  - **Reference**: 
- - **Feedback**: 
+    [P2#8]: ...Hmm iya membantu. Membantu meningat aku untuk ganti password dengan ada huruf besar, tidak kecil semua.
+    [P2#10]: Ketika aku melihat warna merah, aku langsung tahu ada yang salah.
+ - **Feedback**: [P2]: The friendly error message and colors during registration was helpful to alert the user and make the conformed changes required.
  - **Incidence**: 
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
- 
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Prototype Screen 3](public/register3.png)
 
- - **Reference**:  
- - **Feedback**: 
+ - **Reference**:  [P2#8]:  Udah cukup kok untuk memberitahu registrasi sudah selesai... 
+ - **Feedback**: [P2]: The message is adequate to inform the user that it has finished the registration steps.
  - **Incidence**: 
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ #### OBSERVATION 4
+![Prototype Screen 4](public/house1.png)
+
+ - **Reference**:  
+ [P2#12]: ... Kotaknya besar-besar, gampang dibaca. Banyak pilihannya juga, bisa milih kategori beda.
+ [P2#14]: Ini ukuran kepanjangan deskripsi iklan ada yang beda-beda, jadi ada yang ndak sejajar.
+ - **Feedback**: [P2]: The card components for the ads are big in size which makes it easier to read. Also the variety of categories that the user can choose fulfills the user's desires.
+ - **Incidence**: [P2]: Different length of description causes some ads to not be parralel.
+ - **Reason**: Difference in length of some descriptions.
+ - **Resolution**: 
+   - Give a recommended limit so the description aren't too long or short.
+   - Give a fixed component height so all ads start and end at the same position.
  
- ... and so on ...
  
  ---
 
