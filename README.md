@@ -9,8 +9,9 @@
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Prototype Video](public/homepage.png)](https://youtu.be/-kB-4JxG5zs)
 
+Link: https://youtu.be/-kB-4JxG5zs
 ---
 
 ## Part A: Usability Evaluation
