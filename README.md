@@ -76,8 +76,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  18. **You:** Coba anda cari contact person rumah tersebut.
  19. **Participant:** Oh jadi ini, kalau saya klik tombol "I'm interested" ehhh saya tahu profil dari orang penjual rumah ini, ada nama, no telp dan alamat, beserta map lokasi penjual tersebut.
  20. **You:** Ok, apakah anda mengalami kesulitan ketika mencari rumah beserta info penjual?
- 21. **Participant:** Kalau saya tidak terlalu sulit untuk mencari, karena langkahnya sudah jelas dan simple. Bisa ditebak.
- 22. 
+ 21. **Participant:** Kalau saya tidak terlalu sulit untuk mencari, karena langkahnya sudah jelas dan simple. Bisa ditebak. 
 
 #### b. Transcript with Participant 2
  1. **You:** Uji coba pertama aku akan menyuru kamu untuk registrasi akun. Setiap step yang kamu lakukan tolong untuk di-verbal kan.
@@ -127,6 +126,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### 4. Feedback and Incidence Analysis
 > P1 is participant 1
+> 
 > P2 is participant 2
 
 #### OBSERVATION 1 (Registration)
@@ -142,25 +142,29 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  - **Reason**: None
  - **Resolution**: None
  
-#### OBSERVATION 2
+#### OBSERVATION 2 (Fix Registration Password)
 ![Prototype Screen 2](public/register2.png)
 
  - **Reference**: 
-    [P2#8]: ...Hmm iya membantu. Membantu meningat aku untuk ganti password dengan ada huruf besar, tidak kecil semua.
-    [P2#10]: Ketika aku melihat warna merah, aku langsung tahu ada yang salah.
- - **Feedback**: [P2]: The friendly error message and colors during registration was helpful to alert the user and make the conformed changes required.
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
-#### OBSERVATION 3
+    -  [P1#9]: Menurut saya tampilan sudah cukup bagus, dan mudah untuk mendaftarkan akun.
+   - [P2#8]: ...Hmm iya membantu. Membantu meningat aku untuk ganti password dengan ada huruf besar, tidak kecil semua.
+   - [P2#10]: Ketika aku melihat warna merah, aku langsung tahu ada yang salah.
+ - **Feedback**: [P1 & P2]: The friendly error message and colors during registration was helpful to alert the user and make the conformed changes required.
+ - **Incidence**: None
+ - **Reason**: None
+ - **Resolution**: None
+#### OBSERVATION 3 (Completed Registration)
 ![Prototype Screen 3](public/register3.png)
 
- - **Reference**:  [P2#8]:  Udah cukup kok untuk memberitahu registrasi sudah selesai... 
- - **Feedback**: [P2]: The message is adequate to inform the user that it has finished the registration steps.
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- #### OBSERVATION 4
+ - **Reference**:  
+   - [P1#9]: Menurut saya tampilan sudah cukup bagus, dan mudah untuk mendaftarkan akun.
+   - [P2#8]:  Udah cukup kok untuk memberitahu registrasi sudah selesai... 
+ - **Feedback**: 
+   - [P1 & P2]: The message is adequate to inform the user that it has finished the registration steps.
+ - **Incidence**: None
+ - **Reason**: None
+ - **Resolution**: None
+ #### OBSERVATION 4 (Find House Ad)
 ![Prototype Screen 4](public/house1.png)
 
  - **Reference**:  
@@ -175,7 +179,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  - **Resolution**: 
    - Give a recommended limit so the description aren't too long or short.
    - Give a fixed component height so all ads start and end at the same position.
-#### OBSERVATION 5
+#### OBSERVATION 5 (Find Contact Person Details)
 ![Prototype Screen 5](public/house2.png)
 
  - **Reference**:  
@@ -188,17 +192,19 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
    - The I AM INTERESTED button didn't look clickable enough.
  - **Resolution**: 
    - Give a more raised look button
-#### OBSERVATION 6
+#### OBSERVATION 6 (Find Contact Person Details)
 ![Prototype Screen 6](public/house3.png)
 
- - **Reference**:  
+ - **Reference**: 
+   - [P1#21] : Kalau saya tidak terlalu sulit untuk mencari, karena langkahnya sudah jelas dan simple. Bisa ditebak.
    -   [P2#30]: ... Ini mapsnya juga lumayan membantu kalau benar-benar kepingin tahu lokasi rumahnya.
  - **Feedback**: 
+   - [P1]: Easy to find contact person details
    - [P2]: Found the map to be useful
  - **Incidence**:    
  - **Reason**:    
  - **Resolution**:    
-#### OBSERVATION 7
+#### OBSERVATION 7 (Find Samsung Phone using Search Bar)
 ![Prototype Screen 7](public/samsung1.png)
 
  - **Reference**:  
@@ -212,7 +218,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  - **Resolution**:    
    -   Give label to inform the number of ads found
    -   Have better search engine suggestions
-#### OBSERVATION 8
+#### OBSERVATION 8 (Filter lowest price)
 ![Prototype Screen 8](public/samsung2.png)
 
  - **Reference**:  
@@ -225,21 +231,17 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
    - - There wasn't a down arrow to indicate that it is a select box
  - **Resolution**:    
    -   Style a down arrow icon   
-   -   Provie a "filter" label
-#### OBSERVATION 9
+   -   Provide a "filter" label
+#### OBSERVATION 9 (Ads layout)
 ![Prototype Screen 9](public/samsung3.png)
 
  - **Reference**:  
-   -   #pilihan.
+   - [P2#42]: Hmm menurutku udah cukup, aku sebagai pembeli bisa tahu gambar produk seperti apa, urutan harga, sama lokasi penjual. Jadi bisa untuk mempertimbangkan ketika milih produk lain.
  - **Feedback**: 
-   - #
- - **Incidence**:    
-   - #
- - **Reason**:    
-   - #
- - **Resolution**:    
-   -   #
-   -   #
+   - [P2]: Design of ads result already good with supportive information such as price order, seller location and phone number.
+ - **Incidence**:    None
+ - **Reason**:    None
+ - **Resolution**:    None
 
  ---
 
