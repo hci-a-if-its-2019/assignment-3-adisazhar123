@@ -80,14 +80,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  22. 
 
 #### b. Transcript with Participant 2
- 1. **You:** Uji coba pertama saya akan menyuru anda untuk registrasi akun. Setiap step yang anda lakukan tolong untuk di-verbal kan.
- 2. **Particiapant:** Ok saya klik register di nav bar. Saya dibawa ke halaman baru. Sekarang saya mengisi email dan password saya. Lalu saya klik submit. Disini saya harus mengubah password... 
+ 1. **You:** Uji coba pertama aku akan menyuru kamu untuk registrasi akun. Setiap step yang kamu lakukan tolong untuk di-verbal kan.
+ 2. **Particiapant:** Ok aku klik register di nav bar. Aku dibawa ke halaman baru. Sekarang aku mengisi email dan password aku. Lalu aku klik submit. Disini aku harus mengubah password... 
  3. **You:** Yang muncul apa?
- 4. **Participant:** Ada tulisan "password needs to have capital letter".. Ada warna merah di box password, untuk email bisa digunakan, ada tulisan dan warna hijau. Sekarang saya submit lagi.
+ 4. **Participant:** Ada tulisan "password needs to have capital letter".. Ada warna merah di box password, untuk email bisa digunakan, ada tulisan dan warna hijau. Sekarang aku submit lagi.
  5. **You:** Sekarang udah sampai mana?
- 6. **Participant:** Tampilan yang ada didepan saya menunjukkan bahwa saya sudah bisa menggunakan Craiglist dengan akun baru.
- 7. **You:** Ok. Tadi kan sempat muncul pesan ya. Menurut anda apa tadi membantu anda untuk melakukan registrasi.
- 8. **Participant:** Iya membantu. Membantu meningat saya untuk ganti password dengan ada huruf besar, tidak kecil semua.
+ 6. **Participant:** Tampilan yang ada didepan aku menunjukkan bahwa aku sudah bisa menggunakan Craiglist dengan akun baru.
+ 7. **You:** Ok. Tadi kan sempat muncul pesan ya. Menurut kamu apa tadi membantu anda untuk melakukan registrasi.
+ 8. **Participant:** Iya membantu. Membantu meningat aku untuk ganti password dengan ada huruf besar, tidak kecil semua.
  9. **You:** Terus tadi kan ada warnanya, hijau dan merah. Apakah itu mengikat perhatian?
  10. **Participant:** Ketika aku melihat warna merah, aku langsung tahu ada yang salah.
  11. **You:** Ok. Sekarang coba ke halaman utama. Apa yang bisa kamu lihat?
