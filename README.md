@@ -109,7 +109,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  27. **You:** Coba dicari lagi.
  28. **Participant:** *2 menit kemudian*... Oh ini muncul. Ada gambar maps sama nomer HP.
  29. **You:** Ok. Ada masalah ndak untuk sampai step itu?
- 30. **Participant:** Ndak sulit sih, tapi sempat bingung karena baru tahu kalau "I am interested" itu tombol yang bisa dipencet.
+ 30. **Participant:** Ndak sulit sih, tapi sempat bingung karena baru tahu kalau "I am interested" itu tombol yang bisa dipencet. Ini mapsnya juga lumayan membantu kalau benar-benar kepingin tahu lokasi rumahnya.
  31. **You:** Ok sip. Sekarang coba balik ke halaman utama, terus cari "search bar".
  32. **Participant:** Iya udah ketemu.
  33. **You:** Coba cari HP Samsung.
@@ -132,11 +132,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 #### OBSERVATION 1 (Registration)
 ![Prototype Screen 1](public/register1.png)
 
- - **Reference**: [P2#2]: ...Oh mudah ini, Sekarang aku mengisi email dan password aku. Lalu aku klik submit...
- - **Feedback**: [P2]: Register page is simple (good thing).
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: 
+ - **Reference**: 
+   -  [P1#9]: Menurut saya tampilan sudah cukup bagus, dan mudah untuk mendaftarkan akun.
+   - [P2#2]: ...Oh mudah ini, Sekarang aku mengisi email dan password aku. Lalu aku klik submit...
+ - **Feedback**: 
+   - [P1]: Register page is good, and it's easy to register an account.
+   - [P2]: Register page is simple (good thing).
+ - **Incidence**: None
+ - **Reason**: None
+ - **Resolution**: None
  
 #### OBSERVATION 2
 ![Prototype Screen 2](public/register2.png)
@@ -160,16 +164,83 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ![Prototype Screen 4](public/house1.png)
 
  - **Reference**:  
- [P2#12]: ... Kotaknya besar-besar, gampang dibaca. Banyak pilihannya juga, bisa milih kategori beda.
- [P2#14]: Ini ukuran kepanjangan deskripsi iklan ada yang beda-beda, jadi ada yang ndak sejajar.
- - **Feedback**: [P2]: The card components for the ads are big in size which makes it easier to read. Also the variety of categories that the user can choose fulfills the user's desires.
- - **Incidence**: [P2]: Different length of description causes some ads to not be parralel.
- - **Reason**: Difference in length of some descriptions.
+   -   [P2#12]: ... Kotaknya besar-besar, gampang dibaca. Banyak pilihannya juga, bisa milih kategori beda.
+   -   [P2#14]: Ini ukuran kepanjangan deskripsi iklan ada yang beda-beda, jadi ada yang ndak sejajar.
+ - **Feedback**: 
+   - [P2]: The card components for the ads are big in size which makes it easier to read. Also the variety of categories that the user can choose fulfills the user's desires.
+ - **Incidence**: 
+   - [P2]: Different length of description causes some ads to not be parralel.
+ - **Reason**: 
+   - Difference in length of some descriptions.
  - **Resolution**: 
    - Give a recommended limit so the description aren't too long or short.
    - Give a fixed component height so all ads start and end at the same position.
- 
- 
+#### OBSERVATION 5
+![Prototype Screen 5](public/house2.png)
+
+ - **Reference**:  
+   -   [P2#30]: Ndak sulit sih, tapi sempat bingung karena baru tahu kalau "I am interested" itu tombol yang bisa dipencet.
+ - **Feedback**: 
+   - [P2]: Didn't know that I AM INTERESTED was available to be clicked
+ - **Incidence**: 
+   - [P2]: Took a couple of minutes to find details of the contact person.
+ - **Reason**: 
+   - The I AM INTERESTED button didn't look clickable enough.
+ - **Resolution**: 
+   - Give a more raised look button
+#### OBSERVATION 6
+![Prototype Screen 6](public/house3.png)
+
+ - **Reference**:  
+   -   [P2#30]: ... Ini mapsnya juga lumayan membantu kalau benar-benar kepingin tahu lokasi rumahnya.
+ - **Feedback**: 
+   - [P2]: Found the map to be useful
+ - **Incidence**:    
+ - **Reason**:    
+ - **Resolution**:    
+#### OBSERVATION 7
+![Prototype Screen 7](public/samsung1.png)
+
+ - **Reference**:  
+   -   [P2#34]: Ok aku ngetik "HP Samsung" yaa. Ndak muncul apa-apa mas.
+ - **Feedback**: 
+   - [P2]: Wasn't able to find "HP Samsung".
+ - **Incidence**:    
+   - No ads found resulted in a blank result page.
+ - **Reason**:    
+   - No ads with the specified keyword.
+ - **Resolution**:    
+   -   Give label to inform the number of ads found
+   -   Have better search engine suggestions
+#### OBSERVATION 8
+![Prototype Screen 8](public/samsung2.png)
+
+ - **Reference**:  
+   -   [P2#40]: ... Terus untuk tempat filternya diberi panah biar tahu itu bisa ada pilihan.
+ - **Feedback**: 
+   - [P2]: Filter option tricky to find
+ - **Incidence**:    
+   - Difficult time looking for the filter option
+ - **Reason**:    
+   - - There wasn't a down arrow to indicate that it is a select box
+ - **Resolution**:    
+   -   Style a down arrow icon   
+   -   Provie a "filter" label
+#### OBSERVATION 9
+![Prototype Screen 9](public/samsung3.png)
+
+ - **Reference**:  
+   -   #pilihan.
+ - **Feedback**: 
+   - #
+ - **Incidence**:    
+   - #
+ - **Reason**:    
+   - #
+ - **Resolution**:    
+   -   #
+   -   #
+
  ---
 
 ## Part B: Prototyping (again)
