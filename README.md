@@ -14,17 +14,9 @@
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
+
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
 I chose this participant because he comes from a non-tech social background, and I would like his perspective about the redefined Craiglist UI in his own terms. Tech updated people tend to know basic conventions of operations, while non-tech don't. So I think it would be interesting to do so. 
@@ -33,8 +25,14 @@ I chose this participant because he comes from a non-tech social background, and
  - Never heard of Craiglist
  - Light internet usage for daily work  
 
-#### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+#### b. Description of Participant 2 
+I chose this participant (previous participant for CI) because I interact with him daily. I would like to know his views about the redefined Craiglist website.
+- The chosen user is a mid teen school student
+- The user uses the internet daily, most of what is school work, browsing articles, and light social media usage
+- The user is aware of ad listing sites, but have never used it
+- The user is aware of e-commerce websites, and have used it occasionally with parents permission
+- The user understands the English language well
+
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
