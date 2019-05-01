@@ -1,13 +1,6 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
 [![Prototype Video](public/homepage.png)](https://youtu.be/-kB-4JxG5zs)
 
@@ -36,23 +29,11 @@ I chose this participant (previous participant for CI) because I interact with h
 
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
-
 1. Register an account.
 2. Find a housing ad, its description, the location of the house, and the phone number of the ad lister.
 3. Use the search feature to find the cheapest Samsung mobile phone.
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
  1. **You**: Terima kasih sudah menyediakan waktu untuk berpartisipasi dalam uji coba prototype saya.
@@ -245,20 +226,15 @@ I chose this participant (previous participant for CI) because I interact with h
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
-
+![Sketch of Refined Prototype](public/9789901995329.jpg)
+![Sketch of Refined Prototype](public/9789902383359.jpg)
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+We as developers possess the knowledge of the prototype, we know what each UI component does. On the other hand, users will be a bit stiff browsing through the app. If certain components aren't labelled clearly, it will cause confusion. There shouldn't be any assumptions held by the developer. Therefore, as a developer we have to be under the perspective of users.
+
+I redefined my prototype by raising the button more, and gave clear labels for ads result.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+Link: https://youtu.be/howaRn9gOj8
